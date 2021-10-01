@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on anything that can help to start a new career as a Front-end developer jr
-- 📫 How to reach me / www.linkedin.com/in/sabrinafinanceandfrontendjunior
+- 📫 How to reach me / https://www.linkedin.com/in/sabrinamaral/
 
 
 <!---
