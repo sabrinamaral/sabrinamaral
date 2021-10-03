@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabrina.
 - 👀 I am a very curious person. I love studying, reading and lately coding. 😅🤯
-- 🌱 I’m currently learning in the 3rd edition of DEVinHouse.
+- 🌱 I’m currently learning in the 3rd edition of DEVinHouse | at SENAI/SC.
 - 💞️ I’m looking to collaborate on anything that can help to start a new career as a Web Developer Jr.
 - 📫 How to reach me / https://www.linkedin.com/in/sabrinamaral/
 
