@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sabrina
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning HTML, CSS and JS.
-- 💞️ I’m looking to collaborate on anything that can help to start a new career as a Front-end developer jr
+- 👀 I’m a very curious person. I love study, read and lately trying to code 😂
+- 🌱 I’m currently learning in the 3rd edition of DEVinHouse.
+- 💞️ I’m looking to collaborate on anything that can help to start a new career as a Web Developer Jr.
 - 📫 How to reach me / https://www.linkedin.com/in/sabrinamaral/
 
 
