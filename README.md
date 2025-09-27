@@ -8,9 +8,14 @@
         <p> All this learning helped me overcome a repetitive task I faced in my previous job. I developed a Rails application that reconciles transactions between two CSV files and includes an interactive cash flow. If you’re interested in checking it out, it’s available in the finance reconciliation repository.</p>
         <p>📫 Feel free to check out my <a href='https://www.linkedin.com/in/sabrinamaral/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='25rem'/></a> LinkedIn page if you'd like to get in touch.</p>
             <p>📨 Here is my <a href='https://sabrinamaral.github.io/portfolio/'> portfolio </a> if you'd like to check it out 😉</p>
-    </section>  
+    </section>
+    <hr/>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamaral&langs_count=5&theme=radical" />
+    </div>
 </body>
 <!---
  sabrinamaral/sabrinamaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
