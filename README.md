@@ -18,7 +18,7 @@
         <h3> 🎯 Current Focus </h3>
         <p>I'm working on a solo project from the Advanced React Course from <a href='https://scrimba.com/home'> Scrimba </a>.</p>
         <p> 🧩 It's a Component Library, you can see the repo <a href='https://github.com/sabrinamaral/component_library'> here </a>.</p>
-        <p> 🚧 That's a working in progress. </p>
+        <p> 🚧 That's a work in progress. </p>
         <hr>
         <h3> 🎧 Latest Projects </h3>
         <p> 📈 Finance Reconciliation App </p>
