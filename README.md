@@ -1,13 +1,36 @@
 <body>
     <section class='about_me'>
-        <p>Hello there, I’m Sabrina.</p>
-        <p> I have a passion for learning and expanding my knowledge.</p>
-        <p> Completing bolth the <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height='25rem' alt="Le Wagon Logo"> <a href='https://lewagon.com'> Le Wagon</a> Bootcamp and the <a href='https://devinhouse.tech/'>DevInHouse course at SENAC SC</a> was challenging, but also rewarding experience. I'm glad that I had the opportunity to learn new skills such as Ruby, Ruby on Rails, OOP, PostgreSQL, HTML, CSS, and JS. </p>
-        <p> I also completed the highly prestigious <a href="https://cs50.harvard.edu/x/2024/"> CS50 Introduction to Computer Science</a>, a <img src="https://github.com/sabrinamaral/sabrinamaral/assets/75286666/7068e45d-ae92-4078-8fad-4adb1079f98d" height='25rem' alt="harvard_logo"> Harvard University online course. This course is designed to teach the fundamental concepts of computer science and programming, covering a wide range of topics such as algorithms, data structures, abstraction, cryptography, artificial intelligence, and web development. It is a challenging course that exposes me to various programming languages and tools, including C, Python, SQL, HTML, CSS, and JavaScript. By completing this course, I gained a deep understanding of how to think computationally and creatively, and how to use computers to solve real-world problems. This course is an excellent choice for anyone who wants to take their computer science skills to the next level and become a proficient programmer. It provides me with a rock-solid foundation that will enable me to excel in my future endeavors in the computer science field.
-        <p> Recently, I completed the <a href="https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python"> Introduction to Computer Science and Programming Using Python <a/> at <img height='25rem' alt="mit_logo" src="https://github.com/user-attachments/assets/cc385f2f-9a42-4047-99e9-dc83747caf11" /> MITx Online. Over the past two months, I’ve had the opportunity to deepen my understanding of core computer science concepts - including Big O Notation, Binary Search, and Recursion - through a thoughtful blend of theory and hands-on coding exercises. The course made complex topics feel accessible, and it's helped me further solidify my foundation in programming and problem-solving.</p>
-        <p> All this learning helped me overcome a repetitive task I faced in my previous job. I developed a Rails application that reconciles transactions between two CSV files and includes an interactive cash flow. If you’re interested in checking it out, it’s available in the finance reconciliation repository.</p>
-        <p>📫 Feel free to check out my <a href='https://www.linkedin.com/in/sabrinamaral/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='25rem'/></a> LinkedIn page if you'd like to get in touch.</p>
-            <p>📨 Here is my <a href='https://sabrinamaral.github.io/portfolio/'> portfolio </a> if you'd like to check it out 😉</p>
+        <h2> Hello there, 🪴 </h2>
+        <p> I’m Sabrina, a Junior Full-Stack Developer passionate about learning and building tools that solve real-world problems.</p>
+        <p> I’ve completed immersive programs like <a href='https://lewagon.com'> Le Wagon Bootcamp </a> and  <a href='https://cursos.sesisenai.org.br/cursos-profissionais/devinhouse/525'> DevInHouse at SESI SENAI/SC </a>, where I learned HTML, CSS, JavaScript, React, Node, Ruby, Rails, PostgreSQL, and more. I also tackled Harvard’s CS50 and MITx’s Introduction to Computer Science with Python - two rigorous courses that deepened my understanding of algorithms, data structures, and computational thinking.</p>
+        <hr>
+        <h3> 👩🏻‍💻 Skills </h3>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+        <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby Badge"/>
+        <img src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" alt="Rails Badge"/>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
+        <hr/>
+        <h3> 🎯 Current Focus </h3>
+        <p>I'm working on a solo project from the Advanced React Course from <a href='https://scrimba.com/home'> Scrimba </a>.</p>
+        <p> 🧩 It's a Component Library, you can see the repo <a href='https://github.com/sabrinamaral/component_library'> here </a>.</p>
+        <p> 🚧 That's a working in progress. </p>
+        <hr>
+        <h3> 🎧 Latest Projects </h3>
+        <p> 📈 Finance Reconciliation App </p>
+        <p> It's a Rails application that reconciles transactions between two CSV files and includes an interactive cash flow. If you’re interested in checking it out, it’s available in the <a href='https://github.com/sabrinamaral/finance_reconciliation'>finance reconciliation repository</a>. There is also a video preview in my portfolio. 👇</p>
+        <p> ⁉️ Quizzical</p>
+        <p>This app was the final solo project for the <a href='https://scrimba.com/home'> Scrimba </a> React course!</p>
+        <p>You can see the repo <a href='https://github.com/sabrinamaral/quizzical'>here </a></p>
+        <p>You can see a live demo <a href='https://sabrinamaral.github.io/quizzical/'>here</a></p>
+        <hr>
+        <h3>📫 Let’s Connect!</h3>
+            <p>🔗 Here is my <a href='https://www.linkedin.com/in/sabrinamaral/'> LinkedIn </a> </p>
+            <p>📨 Here is my <a href='https://sabrinamaral.github.io/portfolio/'> portfolio </a> </p>
     </section>
     <hr/>
     <div>
