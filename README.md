@@ -18,18 +18,26 @@
         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
         <hr/>
-        <h3> 🎧 Current Focus </h3>
-        <p>I'm working on a solo project from the <a href='https://scrimba.com/home'> Scrimba </a> Advanced React Course.</p>
-        <p> 🧩 It's a Component Library, you can see the repo <a href='https://github.com/sabrinamaral/component_library'> here </a>.</p>
-        <p> 🚧 That's a work in progress. </p>
+        <h3>🎧 Current Focus</h3>
+        <p>I'm working on the <strong>VansLife</strong> project from the <a href="https://scrimba.com/home">Scrimba</a> Advanced React Course.</p>
+        <p>ℹ️ In this session, we're building a single-page application with over 10 different routes to explore how client-side routing works in depth.</p>
+        <p>🔎 Check out the repo <a href="https://github.com/sabrinamaral/vanLife">here</a>.</p>
+        <p>🚧 This project is a work in progress.</p>
         <hr>
         <h3> 🪴 Latest Projects </h3>
-        <p> 📈 Finance Reconciliation App </p>
-        <p> It's a Rails application that reconciles transactions between two CSV files and includes an interactive cash flow. If you’re interested in checking it out, it’s available in the <a href='https://github.com/sabrinamaral/finance_reconciliation'>finance reconciliation repository</a>. There is also a video preview in my portfolio. 👇</p>
+        <p> 📈 Flow | Finance Reconciliation App </p>
+        <p> ℹ️ It's a Rails application that reconciles transactions between two CSV files and includes an interactive cash flow.</p> 
+        <p> 🔎 Check out the repo <a href='https://github.com/sabrinamaral/finance_reconciliation'> here </a>.</p>
+        <p> 🎥 There is also a video preview in my <a href='https://sabrinamaral.github.io/portfolio/projects'> portfolio </a>.</p>
+        <p>_________   _________   _________</p>
+        <p> 🧩 Component Library </p>
+        <p> ℹ️ A solo project built during the Scrimba Advanced React course, this Component Library is a collection of reusable building blocks for modern web applications. It’s designed to help developers build user interfaces faster and more consistently using React. </p>
+        <p> 🔎 Check out the repo <a href='https://github.com/sabrinamaral/component_library'> here </a>.</p>
+        <p>_________   _________   _________</p>
         <p> ⁉️ Quizzical</p>
-        <p>This app was the final solo project for the <a href='https://scrimba.com/home'> Scrimba </a> React course!</p>
-        <p>You can see the repo <a href='https://github.com/sabrinamaral/quizzical'>here</a>.</p>
-        <p>You can see a live demo <a href='https://sabrinamaral.github.io/quizzical/'>here</a>.</p>
+        <p>ℹ️ This app was the final solo project for the <a href='https://scrimba.com/home'> Scrimba </a> React course!</p>
+        <p> 🔎 Check out the repo <a href='https://github.com/sabrinamaral/quizzical'>here</a>.</p>
+        <p> 🎲 Live demo <a href='https://sabrinamaral.github.io/quizzical/'>here</a>.</p>
         <hr>
         <h3>📫 Let’s Connect!</h3>
             <p>🔗 Here is my <a href='https://www.linkedin.com/in/sabrinamaral/'> LinkedIn </a> </p>
