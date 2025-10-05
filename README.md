@@ -21,8 +21,9 @@
         <h3>🎧 Current Focus</h3>
         <p>I'm working on the <strong>VansLife</strong> project from the <a href="https://scrimba.com/home">Scrimba</a> Advanced React Course.</p>
         <p>ℹ️ In this session, we're building a single-page application with over 10 different routes to explore how client-side routing works in depth.</p>
-        <p>🔎 Check out the repo <a href="https://github.com/sabrinamaral/vanLife">here</a>.</p>
         <p>🚧 This project is a work in progress.</p>
+        <p>🔎 Check out the repo <a href="https://github.com/sabrinamaral/vanLife">here</a>.</p>
+        <p> 🎲 Live demo <a href='https://sabrinamaral-vanlife.netlify.app/'>here</a>.</p>
         <hr>
         <h3> 🪴 Latest Projects </h3>
         <p> 📈 Flow | Finance Reconciliation App </p>
