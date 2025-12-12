@@ -46,7 +46,7 @@
     </section>
     <hr/>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamaral&langs_count=5&theme=radical" />
+      <img src="https://raw.githubusercontent.com/sabrinamaral/sabrinamaral/main/github-metrics.svg" alt="Top Languages">
     </div>
 </body>
 <!---
