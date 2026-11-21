@@ -1,7 +1,7 @@
 <body>
   <section class='about_me'>
     <h2> Hello there 🙋🏻‍♀️ </h2>
-    <p> I’m Sabrina, a Junior Full-Stack Developer and undergraduate student at <strong>FGV</strong> in Systems Analysis and Development (just completed my first quarter, with nine more to go). I’m passionate about learning and building tools that solve real-world problems.</p>
+    <p> I’m Sabrina, a Full-Stack Developer and undergraduate student at <strong>FGV</strong> in Systems Analysis and Development (just completed my first quarter, with nine more to go). I’m passionate about learning and building tools that solve real-world problems.</p>
     
 <p> My journey into tech started with immersive programs like <a href='https://lewagon.com'>Le Wagon Bootcamp</a> and <a href='https://devinhouse.tech/'>DevInHouse </a> at SESI SENAI/SC, where I built a strong foundation in HTML, CSS, JavaScript, React, Node, Ruby, Rails, PostgreSQL, and more. I also challenged myself with <strong>Harvard’s CS50</strong> and <strong>MITx’s Introduction to Computer Science with Python</strong>, which deepened my understanding of algorithms, data structures, and computational thinking.</p>
 
